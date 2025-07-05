@@ -7,7 +7,7 @@ I'm currently diving deep into:
 
 - C# with .NET technologies — focusing on desktop, web, and backend development
 
-- Database integration — working mostly with local setups like MySQL/XAMPP
+- Database integration — working mostly with local setups like SQLite 
 
 - Blender & Unreal Engine — learning 3D modeling and game development workflows
 
